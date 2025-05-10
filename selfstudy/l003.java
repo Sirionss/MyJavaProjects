@@ -1,4 +1,4 @@
-public class l3 {
+public class l003 {
     public static void main(String[] args) {
         // false or true
         boolean isActive = false;
@@ -22,7 +22,7 @@ public class l3 {
         float x = 8.5f;
         float y = 2.7f;
         // char UTF-16 0 to 65535 2 byte 
-        
+        long num = 2147483649L;
     }
     
 

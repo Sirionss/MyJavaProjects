@@ -1,5 +1,5 @@
 
-public class l2 {
+public class l002 {
     
 
     public static void main(String[] args) {
